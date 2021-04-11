@@ -1,0 +1,26 @@
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;1,100;1,300&display=swap" rel="stylesheet">
+
+<section>
+  <header>
+    <img src="https://lh3.googleusercontent.com/pH1BiJDifN7KZ2nEh-Zg4FMNdEbriVEH1HUoDL86sa3ylPlG1fa_V75AqewW6QeWtUzJ=s851"/>
+  </header>
+  
+<h1><a href="https://codepen.io/vinicius-ramos-the-animator/pen/LYxYJQo">Vinicius Ramos dos Santos</a></h1>
+
+<div>
+  
+  <h2>Insignias da Imersão.Dev (HTML,CSS,JS)</h2>
+  <ol>
+
+    <li><a href="https://codepen.io/vinicius-ramos-the-animator/pen/LYxYJQo">💰 Conversor de Moedas (variavel, prompt, alert)</a></li>
+    <li><a href="https://codepen.io/vinicius-ramos-the-animator/pen/PoWqzEd">🔢 Calculadora (if, else)</a></li>
+    <li><a href="https://codepen.io/vinicius-ramos-the-animator/pen/WNRQEEN">🔮 Mentalista (Math.random, parse.int)</a></li>
+    <li><a href="https://codepen.io/vinicius-ramos-the-animator/pen/ZELBgeo">🎬 Aluraflix</a></li>
+    <li><a href="https://codepen.io/vinicius-ramos-the-animator/pen/BapWZdM">🏆 Tabela de Classificação (objeto)</a></li>
+    <li><a href="https://codepen.io/vinicius-ramos-the-animator/pen/QWdgpOb">🃏 SuperTrunfo (game)</a></li>
+    <li><a href="https://codepen.io/vinicius-ramos-the-animator/pen/dyNzyVp">🌐 CertifiCard</a></li>
+  </ol>
+  
+</div>
+</section>
